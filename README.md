@@ -1,6 +1,5 @@
 # Devil - Virtual Assistant 🕶️
 
-
 **Devil** is a Python-based virtual assistant capable of performing various tasks such as opening web browsers, fetching information from the internet, and responding to voice commands. It leverages several powerful Python libraries to provide a seamless and interactive user experience.
 
 ## 🔧 Features
